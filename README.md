@@ -16,6 +16,7 @@ Install Keras from commandline using
 
 ## Usage
 
+run via 'python style_transfer.py' 
 
 
 ## Credits 
